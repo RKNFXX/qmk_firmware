@@ -1,0 +1,7 @@
+||||||
+|--------------------|--------------|---------------------|---------------|---------------------|
+| MOD-L linear       | Gat blue 80g | Gat blue            | Gat blue 150g | MOD-L tactile       |
+| MOD-M linear       | Zealio 65g   | Gat green           | Gat brown     | MOD-M tactile       |
+| MOD-H linear       | Gat black    | Gatistotle 80g      | Zealio 62g    | MOD-H tactile       |
+| Kailh black        | Gat red      | Cherry green        | Gat yellow    | Kalih brown         |
+| Cherry linear grey | Cherry red   | Kailh BOX Pale Blue | Kailh blue    | Cherry tactile grey |
